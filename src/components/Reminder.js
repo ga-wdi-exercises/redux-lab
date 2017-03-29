@@ -28,7 +28,7 @@ class Reminder extends Component {
 
     return(
       <div>
-          <h1>Here are some things to do</h1>
+          <h1>Here are some things Developers need to learn</h1>
           <p>
             {reminderItems}
           </p>
