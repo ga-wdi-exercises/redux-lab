@@ -27,7 +27,7 @@ class Todo extends Component {
         <Reminder
           addItem = {this.props.actions.addTodo}
           deleteItem = {this.props.actions.deleteTodo} />
-        <h2>Todo</h2>
+        <h2>This is what I learned</h2>
         <ol>
           {TodoItems}
         </ol>
