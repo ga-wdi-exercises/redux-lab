@@ -1,9 +1,11 @@
 
-## Redux Shopping Cart
+# Redux Lab
 
-Incorporating Redux into your React App can be a challenging process so it's important to take time to understand how the code works. Go through the [Shopping Cart](https://github.com/ga-wdi-exercises/react-redux-shopping-cart) walkthrough
+## Part I: Redux Shopping Cart
 
-## Redux Todo App
+Incorporating Redux into your React App can be a challenging process so it's important to take time to understand how the code works. Go through the [Shopping Cart](https://github.com/ga-wdi-exercises/react-redux-shopping-cart) walkthrough.
+
+## Part II: Redux Todo App
 
 Once you have completed the Shopping Cart walkthrough, use the same methodology to create a Todo app (i.e., an app that maintains a todo list).
 
